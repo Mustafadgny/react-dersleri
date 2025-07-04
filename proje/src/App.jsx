@@ -42,9 +42,8 @@ const questions = [
    {
     questionsText: "Mount Everest is the highest mountain in the world.",
     answerOptions: [
-      { answerText: "ahmet", isCorrect: true },
-      { answerText: "mehmet", isCorrect: false },
-      { answerText: "hüseyin", isCorrect: false },
+      { answerText: "Yes", isCorrect: true },
+      { answerText: "No", isCorrect: false },
     ],
   },
 ];
